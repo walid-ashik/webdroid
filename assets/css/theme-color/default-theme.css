@@ -6,101 +6,101 @@ Author URI : http://www.markups.io/
 
 .menu-wrap li a:hover,
 .menu-wrap li a:focus {
-  color: #03a9f4;
+  color: #FF4800;
 }
 
 .download-btn{
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .main-nav a:hover,
 .main-nav a:focus {
-  color: #03a9f4;
+  color: #FF4800;
 }
 
 .main-nav a:active {
-  color: #03a9f4;
+  color: #FF4800;
 }
 
 .title-area .title span{
-  color: #03a9f4;
+  color: #FF4800;
 }
 
 .title-area .title::before {
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .features-list li:hover .features-content h4{
-  color: #03a9f4;
+  color: #FF4800;
 }
 
 .features-list li:hover .fa{
-  background-color: #03a9f4;  
+  background-color: #FF4800;
 }
 
 .features-list i:hover{
-  background-color: #03a9f4;
+  background-color: #FF4800;
   color: #fff;
 }
 
 .feature-price .single-plan-head{
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .single-plan-head p > span {
-  color: #03a9f4; 
+  color: #FF4800;
 }
 
 .single-plan-bottom .signup-btn {
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .screenshots-slide li a:hover{
-  border-color: #03a9f4;  
+  border-color: #FF4800;
 }
 
 .screenshots-slide .slick-dots li button:hover,
 .screenshots-slide .slick-dots li.slick-active button {
-  background-color: #03a9f4;  
+  background-color: #FF4800;
 }
 
 .single-download:hover,
 .single-download:focus{
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .testi-company{
-  color: #03a9f4;  
+  color: #FF4800;
 }
 
-.testi-text:before{  
-  color: #03a9f4;
+.testi-text:before{
+  color: #FF4800;
 }
 
 .testimonial-slider .slick-dots li.slick-active {
-  background-color: #03a9f4; 
+  background-color: #FF4800;
 }
 
 .subcr-form i {
-  color: #03a9f4;  
+  color: #FF4800;
 }
 
 .subcr-form .subcr-btn {
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .contact-form .form-control:focus {
-  border-color: #03a9f4;
+  border-color: #FF4800;
 }
 
 .send-btn:hover,
 .send-btn:focus{
-  background-color: #03a9f4;
+  background-color: #FF4800;
 }
 
 .home-btn a:hover,
 .home-btn a:focus{
-  color: #03a9f4; 
+  color: #FF4800;
 }
 
 /*=======================================
